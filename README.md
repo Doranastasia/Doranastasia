@@ -3,4 +3,4 @@
 Welcome to my page with my projects!
 
 ## My LeetCode Status 🌞
-![LeetCode stats](https://leetcode.com/AnDore21/)
+![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=AnDore21&theme=dark)
