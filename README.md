@@ -3,4 +3,4 @@
 Welcome to my page with my projects!
 
 ## My LeetCode Status 🌞
-![Leetcode Stats](https://leetcode.card.workers.dev/AnDore21?ext=heatmap)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=AnDore21&theme=dark)](https://github.com/AnDore21/leetcode-stats)
